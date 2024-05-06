@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\MVC_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\models\\works.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:models\\works.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\MVC_DB\\Migrations\\20240506195604_createWorkAndCSTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240506195604_createWorkAndCSTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\models\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:models\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\controllers\\worksinglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:controllers\\worksinglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|c:\\users\\hp\\source\\repos\\mvc_db\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC3C036-0426-4DCB-8020-4E5979159AC5}|MVC_DB.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240506195604_createWorkAndCSTables.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Migrations\\20240506195604_createWorkAndCSTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240506195604_createWorkAndCSTables.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Migrations\\20240506195604_createWorkAndCSTables.cs",
+              "RelativeToolTip": "Migrations\\20240506195604_createWorkAndCSTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:56:05.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:15:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:23:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAgwNkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:15:56.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:25:00.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Works.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Models\\Works.cs",
+              "RelativeDocumentMoniker": "Models\\Works.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Models\\Works.cs",
+              "RelativeToolTip": "Models\\Works.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:33:53.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:51:10.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T17:54:45.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\_ViewImports.cshtml",
+              "RelativeToolTip": "_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:23:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\WorkSingle\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkSingle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\WorkSingle\\Index.cshtml",
+              "RelativeToolTip": "Views\\WorkSingle\\Index.cshtml",
+              "ViewState": "AQIAAKYBAAAAAAAAAAAgwMMBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:19:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:22:54.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:24:18.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:17:33.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CS.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Models\\CS.cs",
+              "RelativeDocumentMoniker": "Models\\CS.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Models\\CS.cs",
+              "RelativeToolTip": "Models\\CS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:33:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:18:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:17:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAAOoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:17:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAgwN0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:16:41.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkSingleController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\WorkSingleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkSingleController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\WorkSingleController.cs",
+              "RelativeToolTip": "Controllers\\WorkSingleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:19:20.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:18:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:16:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MVC_DB\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:16:33.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
